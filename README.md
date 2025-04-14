@@ -10,7 +10,7 @@ To get it running, install the dependencies (`npm install`) and run (`npm run de
 
 ## What do I do?
 
-Basically, we want you to spend some time (at least one hour, try not to spend more than say 2 hours on this) making this project _better_. You will be graded mostly on **SKILL** here, (i.e. how much can be done within the time frame) while also partially on creativity. You have free rein to add whatever you want!
+Basically, we want you to spend some time (at least one hour, try not to spend more than say 2 hours on this) making this project _better_. You will be graded mostly on **skill** here, (i.e. how much can be done within the time frame) while also partially on creativity. You have free rein to add whatever you want!
 
 Here are some cool ideas to get the ball rolling:
 
@@ -20,7 +20,7 @@ Here are some cool ideas to get the ball rolling:
 4. Add a search bar (This will likely require some research into the API we are talking to: https://randomuser.me/) or the ability to filter by a parameter
 5. Implement a full-profile page so that you can see more information on the person
 
-As you can see, there is a LOT that can be done here. Happy Coding!
+As you can see, there is a lot that can be done here. Happy Coding!
 
 ## FAQ
 
