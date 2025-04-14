@@ -24,6 +24,7 @@ Here are a few ideas to help spark inspiration:
 1. Can I deviate from the boilerplate code?
 
 Absolutely! Feel free to use whatever approach you believe results in the cleanest and most efficient code—whether that’s inline vs. separated CSS, functional vs. class components, etc.
+
     > The most important thing is that your final codebase is self-consistent and easy to follow.
 
 ## ✅ I'm Done! Now What?
