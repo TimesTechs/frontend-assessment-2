@@ -25,10 +25,11 @@ Here are a few ideas to help spark inspiration:
 
 Absolutely! Feel free to use whatever approach you believe results in the cleanest and most efficient code—whether that’s inline vs. separated CSS, functional vs. class components, etc.
 
-    > The most important thing is that your final codebase is self-consistent and easy to follow.
+
+The most important thing is that your final codebase is self-consistent and easy to follow.
 
 ## ✅ I'm Done! Now What?
 Once you've completed the assignment, you can send it back to us in any of the following ways:
-1. Create a GitHub repository, commit your final version, and add abdulhadiayaz as a contributor
+1. Create a GitHub repository, commit your final version, and add `abdulhadiayaz` as a contributor
 2. Create a public GitHub repo and send us the link
 3. Zip the project folder and email it to us
