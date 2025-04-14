@@ -31,7 +31,7 @@ As you can see, there is a LOT that can be done here. Happy Coding!
 
 To send the finished product back to us, you can do any of the following:
 
-1. Make a github repo, commit your finished version, and add `benjaminjkern` as a contributor
+1. Make a github repo, commit your finished version, and add `abdulhadiayaz` as a contributor
 2. Make a github repo, commit your finished version, make it public and just send us the link
 3. Zip up the file and email it back to us!
 
